@@ -4,9 +4,6 @@
 Building an isolated virtual lab for penetration testing and ethical hacking practice.
 
 <!-- بیجز (Badges) کے لیے -->
-![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-blue)
-![VirtualBox](https://img.shields.io/badge/Ver-Virtualbox%20v7.2-orange)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-v2026.2-red)
 <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ver-Virtualbox%20v7.2-0070C0?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Kali%20Linux-v2026.2-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
