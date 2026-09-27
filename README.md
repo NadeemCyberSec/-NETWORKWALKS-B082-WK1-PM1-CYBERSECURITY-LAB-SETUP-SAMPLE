@@ -306,16 +306,12 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **Muhammad Nadeem**\
-Cybersecurity Professional B082
+Cybersecurity Professional B083
 
-LinkedIn: [](https://www.linkedin.com/in/muhammadnadeem/)
+LinkedIn:(https://pk.linkedin.com/in/muhammad-nadeem-b43a68432/)
 
 ---
 
 ## 📌 Project Information
 
 **Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
-
-
-It can be used for activities such as:
-* Network reconnaissance
